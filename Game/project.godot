@@ -11,7 +11,15 @@ config_version=4
 [application]
 
 config/name="Project Pot"
+run/main_scene="res://Stages/TestStage.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=256
+window/size/height=150
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
 
 [physics]
 
