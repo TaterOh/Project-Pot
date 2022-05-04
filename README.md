@@ -1,6 +1,6 @@
 # Project-Pot
 
-Small multiplayer game about throwing magical pots at each other.
+Small multiplayer game about throwing magical pots at each other. Last pot standing wins!
 
 ## Implementation
 
